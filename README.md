@@ -33,3 +33,5 @@ git clone https://github.com/gaurav-aditya/Tic-Tac-Toe.git
 <img width="878" alt="tictactoe-dark" src="https://user-images.githubusercontent.com/64218887/124368600-3f3fc300-dc80-11eb-979c-a5e802dc344a.png">
 <br>
 
+[![Stargazers repo roster for @gaurav-aditya/Tic-Tae-Toe](https://reporoster.com/stars/gaurav-aditya/Tic-Tae-Toe)](https://github.com/gaurav-aditya/Tic-Tae-Toe/stargazers)
+[![Forkers repo roster for @gaurav-aditya/Tic-Tae-Toe](https://reporoster.com/forks/gaurav-aditya/Tic-Tae-Toe)](https://github.com/gaurav-aditya/Tic-Tae-Toe/network/members)
